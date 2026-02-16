@@ -17,13 +17,6 @@ este proyecto implementa un clasificador de residuos en tiempo real usando visio
 │   ├── paper/
 │   ├── plastic/
 │   └── trash/
-└── ejemplos/
-    ├── ejemplo_cardboard.png
-    ├── ejemplo_glass.png
-    ├── ejemplo_metal.png
-    ├── ejemplo_paper.png
-    ├── ejemplo_plastic.png
-    └── ejemplo_trash.png
 dataset
 se utilizo un dataset publico de residuos solidos:
 
